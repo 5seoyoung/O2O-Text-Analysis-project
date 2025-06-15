@@ -7,7 +7,7 @@
 
 O2O 서비스 플랫폼에서 수집된 사용자 리뷰 데이터를 기반으로,  
 1.  감정 분석 (model based)
-  [`nlp04/korean-sentiment-analysis-kcelectra`](https://huggingface.co/nlp04/korean-sentiment-analysis_kcelectra)  
+  [`nlp04/korean-sentiment-analysis-kcelectra`](https://huggingface.co/nlp04/korean_sentiment_analysis_kcelectra)  
   > - Hugging Face에 공개된 한국어 감정 분류 모델  
   > - KcELECTRA 기반, 긍정/중립/부정 분류 지원  
 2.  감성 분석 (자체 사전 구축)
